@@ -23,3 +23,6 @@ The **Random Forest** model with SMOTE provided the best balance between catchin
 - `fraud_detection.py`: Main training pipeline.
 - `requirements.txt`: Dependencies.
 - `fraud_detection_model.pkl`: Trained model for production.
+
+## Dataset
+https://www.kaggle.com/code/aarthiramalingam/creditcard/input
