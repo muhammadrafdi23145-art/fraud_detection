@@ -29,4 +29,6 @@ https://www.kaggle.com/code/aarthiramalingam/creditcard/input
 
 ## Result
 <img width="1175" height="490" alt="image" src="https://github.com/user-attachments/assets/486e454c-b778-4423-8f21-a82be7923ae3" />
+LR accuracy 0.99
+RF accuracy 1.00
 
