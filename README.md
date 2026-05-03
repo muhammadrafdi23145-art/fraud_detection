@@ -33,24 +33,24 @@ https://www.kaggle.com/code/aarthiramalingam/creditcard/input
 ## Evaluation
 --- Logistic Regression ---
 
-              precision    recall  f1-score   support
+                  precision   recall    f1-score   support
 
-           0       1.00      0.99      1.00     56651
-           1       0.14      0.85      0.24        95
+           0        1.00       0.99       1.00      56651
+           1        0.14       0.85       0.24       95
 
-    accuracy                           0.99     56746
-    macro avg       0.57      0.92      0.62     56746
-    weighted avg       1.00      0.99      0.99     56746
+    accuracy                              0.99      56746
+    macro avg       0.57       0.92       0.62      56746
+    weighted avg    1.00       0.99       0.99      56746
 
 
 --- Training Random Forest ---
 
-              precision    recall  f1-score   support
+                 precision    recall  f1-score   support
 
-           0       1.00      1.00      1.00     56651
-           1       0.60      0.81      0.69        95
+           0        1.00       1.00      1.00     56651
+           1        0.60       0.81      0.69       95
 
-    accuracy                           1.00     56746
-    macro avg       0.80      0.90      0.84     56746
-    weighted avg       1.00      1.00      1.00     56746
+    accuracy                             1.00     56746
+    macro avg       0.80       0.90      0.84     56746
+    weighted avg    1.00       1.00      1.00     56746
 
